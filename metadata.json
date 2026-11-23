@@ -1,0 +1,6 @@
+{
+  "name": "READY TO READ",
+  "description": "Boutique de livres neufs et d'occasion READY TO READ avec commande téléphonique au 0675215000, bannière promotionnelle et administration de service clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
